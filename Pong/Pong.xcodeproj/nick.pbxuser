@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	0175B46A1202051400CD1F91 /* Pong */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Pong;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0175B4771202053400CD1F91 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0175B4781202053400CD1F91 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0175B49712020A9700CD1F91 /* BallSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 432}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 308}";
+		};
+	};
+	0175B49812020A9700CD1F91 /* BallSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 432}}";
+			sepNavSelRange = "{191, 48}";
+			sepNavVisRange = "{0, 463}";
+		};
+	};
+	0175B49A12020C7400CD1F91 /* Pong-iPad */ = {
+		activeExec = 0;
+		executables = (
+			0175B4B512020C7400CD1F91 /* Pong-iPad */,
+		);
+	};
+	0175B4B512020C7400CD1F91 /* Pong-iPad */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Pong-iPad";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0175B4B712020C7C00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B02F11498A370002F919 /* CCLabel.m */;
+		name = "CCLabel.m: 14";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 0;
+	};
+	0175B4B812020C7C00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B02E11498A370002F919 /* CCLabel.h */;
+		name = "CCLabel.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1027;
+		vrLoc = 0;
+	};
+	0175B4BA12020C7C00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B03C11498A370002F919 /* CCNode.m */;
+		name = "CCNode.m: 141";
+		rLen = 0;
+		rLoc = 3338;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 2850;
+	};
+	0175B4E212020D7E00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 502BC35A1120837500A0B92A /* CocosDenshion.m */;
+		name = "CocosDenshion.m: 235";
+		rLen = 0;
+		rLoc = 7924;
+		rType = 0;
+		vrLen = 1405;
+		vrLoc = 7359;
+	};
+	0175B4ED12020F7A00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B06511498A370002F919 /* CCTexture2D.m */;
+		name = "CCTexture2D.m: 106";
+		rLen = 28;
+		rLoc = 4212;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 3801;
+	};
+	0175B4EE12020F7A00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B06411498A370002F919 /* CCTexture2D.h */;
+		name = "CCTexture2D.h: 164";
+		rLen = 14;
+		rLoc = 6995;
+		rType = 0;
+		vrLen = 794;
+		vrLoc = 7969;
+	};
+	0175B4FD120211AE00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2C0EF2145700286867 /* PongAppDelegate.h */;
+		name = "PongAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 308;
+		vrLoc = 0;
+	};
+	0175B4FF120211AE00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B01C11498A370002F919 /* CCDirector.m */;
+		name = "CCDirector.m: 549";
+		rLen = 6;
+		rLoc = 12725;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 12327;
+	};
+	0175B500120211AE00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B03B11498A370002F919 /* CCNode.h */;
+		name = "CCNode.h: 195";
+		rLen = 6;
+		rLoc = 6333;
+		rType = 0;
+		vrLen = 1413;
+		vrLoc = 5761;
+	};
+	0175B501120211AE00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 50D3B08A11498A370002F919 /* CGPointExtension.h */;
+		name = "CGPointExtension.h: 59";
+		rLen = 50;
+		rLoc = 2002;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 1589;
+	};
+	0175B50D1202273000CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0175B49812020A9700CD1F91 /* BallSprite.m */;
+		name = "BallSprite.m: 14";
+		rLen = 48;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	0175B50E1202273000CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0175B49712020A9700CD1F91 /* BallSprite.h */;
+		name = "BallSprite.h: 18";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 308;
+		vrLoc = 0;
+	};
+	0175B50F1202273000CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* PongAppDelegate.m */;
+		name = "PongAppDelegate.m: 1";
+		rLen = 141;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 894;
+		vrLoc = 0;
+	};
+	0175B5101202273000CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* PongScene.m */;
+		name = "PongScene.m: 1";
+		rLen = 135;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 0;
+	};
+	0175B5111202273000CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* PongScene.h */;
+		name = "PongScene.h: 13";
+		rLen = 0;
+		rLoc = 274;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 0;
+	};
+	0175B513120227FF00CD1F91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC2F102F528A00A389B3 /* PongScene.h */;
+		name = "PongScene.h: 2";
+		rLen = 0;
+		rLoc = 18;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	1D6058900D05DD3D006BFB54 /* Pong */ = {
+		activeExec = 0;
+		executables = (
+			0175B46A1202051400CD1F91 /* Pong */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* PongAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1105}}";
+			sepNavSelRange = "{0, 141}";
+			sepNavVisRange = "{0, 894}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* PongAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 432}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 308}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0175B46A1202051400CD1F91 /* Pong */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Pong */;
+		addToTargets = (
+		);
+		codeSenseManager = 0175B4781202053400CD1F91 /* Code sense */;
+		executables = (
+			0175B46A1202051400CD1F91 /* Pong */,
+			0175B4B512020C7400CD1F91 /* Pong-iPad */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302122260;
+			PBXWorkspaceStateSaveDate = 302122260;
+		};
+		perUserProjectItems = {
+			0175B4B712020C7C00CD1F91 /* PBXTextBookmark */ = 0175B4B712020C7C00CD1F91 /* PBXTextBookmark */;
+			0175B4B812020C7C00CD1F91 /* PBXTextBookmark */ = 0175B4B812020C7C00CD1F91 /* PBXTextBookmark */;
+			0175B4BA12020C7C00CD1F91 /* PBXTextBookmark */ = 0175B4BA12020C7C00CD1F91 /* PBXTextBookmark */;
+			0175B4E212020D7E00CD1F91 /* PBXTextBookmark */ = 0175B4E212020D7E00CD1F91 /* PBXTextBookmark */;
+			0175B4ED12020F7A00CD1F91 /* PBXTextBookmark */ = 0175B4ED12020F7A00CD1F91 /* PBXTextBookmark */;
+			0175B4EE12020F7A00CD1F91 /* PBXTextBookmark */ = 0175B4EE12020F7A00CD1F91 /* PBXTextBookmark */;
+			0175B4FD120211AE00CD1F91 /* PBXTextBookmark */ = 0175B4FD120211AE00CD1F91 /* PBXTextBookmark */;
+			0175B4FF120211AE00CD1F91 /* PBXTextBookmark */ = 0175B4FF120211AE00CD1F91 /* PBXTextBookmark */;
+			0175B500120211AE00CD1F91 /* PBXTextBookmark */ = 0175B500120211AE00CD1F91 /* PBXTextBookmark */;
+			0175B501120211AE00CD1F91 /* PBXTextBookmark */ = 0175B501120211AE00CD1F91 /* PBXTextBookmark */;
+			0175B50D1202273000CD1F91 /* PBXTextBookmark */ = 0175B50D1202273000CD1F91 /* PBXTextBookmark */;
+			0175B50E1202273000CD1F91 /* PBXTextBookmark */ = 0175B50E1202273000CD1F91 /* PBXTextBookmark */;
+			0175B50F1202273000CD1F91 /* PBXTextBookmark */ = 0175B50F1202273000CD1F91 /* PBXTextBookmark */;
+			0175B5101202273000CD1F91 /* PBXTextBookmark */ = 0175B5101202273000CD1F91 /* PBXTextBookmark */;
+			0175B5111202273000CD1F91 /* PBXTextBookmark */ = 0175B5111202273000CD1F91 /* PBXTextBookmark */;
+			0175B513120227FF00CD1F91 /* PBXTextBookmark */ = 0175B513120227FF00CD1F91 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0175B4771202053400CD1F91 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	502BC35A1120837500A0B92A /* CocosDenshion.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 11180}}";
+			sepNavSelRange = "{7924, 0}";
+			sepNavVisRange = "{7359, 1405}";
+		};
+	};
+	506EDC2F102F528A00A389B3 /* PongScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 432}}";
+			sepNavSelRange = "{18, 0}";
+			sepNavVisRange = "{0, 304}";
+		};
+	};
+	506EDC30102F528A00A389B3 /* PongScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 572}}";
+			sepNavSelRange = "{683, 0}";
+			sepNavVisRange = "{209, 266}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	50D3B01C11498A370002F919 /* CCDirector.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 14560}}";
+			sepNavSelRange = "{12725, 6}";
+			sepNavVisRange = "{12327, 800}";
+		};
+	};
+	50D3B02E11498A370002F919 /* CCLabel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 663}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1027}";
+		};
+	};
+	50D3B02F11498A370002F919 /* CCLabel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1222}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{0, 961}";
+		};
+	};
+	50D3B03B11498A370002F919 /* CCNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 5213}}";
+			sepNavSelRange = "{6333, 6}";
+			sepNavVisRange = "{5761, 1413}";
+		};
+	};
+	50D3B03C11498A370002F919 /* CCNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 9880}}";
+			sepNavSelRange = "{3338, 0}";
+			sepNavVisRange = "{2850, 928}";
+		};
+	};
+	50D3B06411498A370002F919 /* CCTexture2D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 3367}}";
+			sepNavSelRange = "{6995, 14}";
+			sepNavVisRange = "{7969, 794}";
+		};
+	};
+	50D3B06511498A370002F919 /* CCTexture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 7579}}";
+			sepNavSelRange = "{4212, 28}";
+			sepNavVisRange = "{3801, 1145}";
+		};
+	};
+	50D3B08A11498A370002F919 /* CGPointExtension.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 3978}}";
+			sepNavSelRange = "{2002, 50}";
+			sepNavVisRange = "{1589, 678}";
+		};
+	};
+}
