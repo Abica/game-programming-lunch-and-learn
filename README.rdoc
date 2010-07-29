@@ -1,0 +1,5 @@
+= Description
+This is a simple implementation of Pong for the ipad/iphone with cocos2d
+for a lunch and learn that I'm doing on game programming at work.
+
+This was built against the 3.2 iphone sdk with cocos2d 0.99 or greater.
