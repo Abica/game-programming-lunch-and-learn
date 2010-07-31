@@ -15,5 +15,6 @@
 }
 
 + (id)ballWithTexture:(CCTexture2D *)aTexture;
+- (void)move;
 
 @end

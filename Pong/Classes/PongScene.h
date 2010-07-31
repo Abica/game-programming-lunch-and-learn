@@ -7,6 +7,12 @@
 //
 #import "cocos2d.h"
 
+
+enum {
+    kPlayerPaddle,
+    kEnemyPaddle,
+};
+
 @class BallSprite;
 
 @interface PongScene : CCScene {
@@ -16,8 +22,10 @@
 @end
 
 
-@interface PongLayer : CCLayer {
+@interface PongLayer : CCLayer<CCTargetedTouchDelegate> {
     BallSprite *ball;
+    BOOL fingerDown;
+    CGPoint touchLocation;
 }
 
 - (void)reset;
